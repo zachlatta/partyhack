@@ -17,4 +17,4 @@ print statement, and Jquery. The rest is up to you.
 ## Rules
 
 * Don't modify other people's code.
-* Don't break things that aren't yours.
+* Verify that everything works as expected before submitting a pull request.
