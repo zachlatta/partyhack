@@ -1,5 +1,5 @@
 function zachlatta() {
-  Console.log("Hello world!");
+  console.log("Hello world!");
 }
 
 zachlatta();
