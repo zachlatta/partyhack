@@ -4,7 +4,7 @@ function zachlatta() {
 
 
 function arctangent1759(){
-	document.body.innerHTML+="<div id='pointlessElongatedStringOfCharacters' style='background-color:rgba(0,0,0,.7);left:200px;top:200px;position:absolute;width:210px;height:210px;border:1px solid black;border-radius:105px;'><center><br/><br/><br/><br/><img src='http://localhost:5000/tex/$x^2+y^2=r$'/></center></div>";
+	document.body.innerHTML+="<div id='pointlessElongatedStringOfCharacters' style='background-color:rgba(0,0,0,.7);left:200px;top:200px;position:absolute;width:210px;height:210px;border:1px solid black;border-radius:105px;'><center><br/><br/><br/><br/><img src='http://tex.sh/$x^2+y^2=r$'/></center></div>";
 	var vx=Math.random()*10;
 	var vy=Math.random()*10;
 	var vr=Math.ceil(Math.random()*10);
